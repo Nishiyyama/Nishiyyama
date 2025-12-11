@@ -6,7 +6,7 @@ Olá! Me chamo Riquelme Nishiyama, moro em São Paulo e sou apaixonado por trans
 
 Minha jornada começou na área administrativa e hospitalar (Rede D'Or), onde aprendi na prática a importância de processos eficientes. Foi lá que percebi o poder dos dados e decidi migrar para a tecnologia. 
 
-Atualmente, curso **Ciência de Dados para Negócios na FATEC Sebrae** e possuo especialização tecnica em **Desenvolvimento de Apps**. Meu foco é criar pontes entre a tecnologia e a estratégia de negócios usando Python, SQL e Power BI[cite: 18, 19].
+Atualmente, curso **Ciência de Dados para Negócios na FATEC Sebrae** e possuo especialização tecnica em **Desenvolvimento de Apps**. Meu foco é criar pontes entre a tecnologia e a estratégia de negócios usando Python, SQL e Power BI.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/nishiyyama">
