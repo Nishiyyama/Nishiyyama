@@ -1,8 +1,8 @@
-# 🧑🏻‍💻 Riquelme Nishiyama
+# 🧑🏻‍💻 Nishiyama
 
 **`Data Science Student | Business Intelligence | Python & SQL`**
 
-Olá! Me chamo **Riquelme Nishiyama**, sou de São Paulo e atuo na transformação de dados em inteligência de negócios.
+Olá! Me chamo **Nishiyama**, sou de São Paulo e atuo na transformação de dados em inteligência de negócios.
 
 Atualmente, dedico-me integralmente à graduação em **Ciência de Dados para Negócios na FATEC Sebrae**, onde aprofundo meus conhecimentos em Python, SQL e Business Intelligence para resolver problemas reais.
 
