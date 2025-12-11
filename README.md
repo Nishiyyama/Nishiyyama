@@ -1,12 +1,12 @@
-# 📊 Riquelme Nishiyama
+# 🧑🏻‍💻 Riquelme Nishiyama
 
 **`Data Science Student | Business Intelligence | Python & SQL`**
 
-Olá! Me chamo Riquelme Nishiyama, moro em São Paulo e sou apaixonado por transformar dados em decisões estratégicas. 
+Olá! Me chamo **Riquelme Nishiyama**, sou de São Paulo e atuo na transformação de dados em inteligência de negócios.
 
-Minha jornada começou na área administrativa e hospitalar (Rede D'Or), onde aprendi na prática a importância de processos eficientes. Foi lá que percebi o poder dos dados e decidi migrar para a tecnologia. 
+Atualmente, dedico-me integralmente à graduação em **Ciência de Dados para Negócios na FATEC Sebrae**, onde aprofundo meus conhecimentos em Python, SQL e Business Intelligence para resolver problemas reais.
 
-Atualmente, curso **Ciência de Dados para Negócios na FATEC Sebrae** e possuo especialização tecnica em **Desenvolvimento de Apps**. Meu foco é criar pontes entre a tecnologia e a estratégia de negócios usando Python, SQL e Power BI.
+Minha base técnica é sólida e diversificada: sou formado como Técnico em Informática para Internet e possuo uma **Especialização Técnica em Desenvolvimento de Aplicativos para Smartphones**, ambas concluídas na ETEC.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/nishiyyama">
@@ -16,7 +16,7 @@ Atualmente, curso **Ciência de Dados para Negócios na FATEC Sebrae** e possuo 
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&style=for-the-badge"
         />
     </a>
-    <a href="mailto:riquelme.nichiyama.rn@gmail.com">
+    <a href="mailto:nishiyama.dev@outlook.com">
         <img 
             alt="Email" 
             title="Entre em contato por Email" 
